@@ -1,0 +1,33 @@
+{
+    "name" : "genesisui",
+    "version" : "1.4.1 (AngularJS)",
+    "dependencies" : {
+        "bootstrap"                 : "4.0.0-alpha.2",
+        "fontawesome"               : "latest",
+        "simple-line-icons"         : "latest",
+        "tether"                    : "latest",
+        "datatables"                : "latest",
+        "angular-datatables"        : "latest",
+        "bootstrap-daterangepicker" : "latest",
+        "select2"                   : "latest",
+        "select2-bootstrap-css"     : "latest",
+        "ionrangeslider"            : "latest",
+        "angular"                   : "latest",
+        "angular-animate"           : "latest",
+        "angular-ui-router"         : "latest",
+        "oclazyload"                : "latest",
+        "angular-breadcrumb"        : "latest",
+        "angular-loading-bar"       : "latest",
+        "angular-ui-mask"           : "latest",
+        "angular-sanitize"          : "latest",
+        "angular-ui-select"         : "latest",
+        "angular-daterangepicker"   : "latest",
+        "toastr"                    : "latest",
+        "angular-toastr"            : "latest",
+        "angular-chart.js"          : "1.0.0-alpha6",
+        "angular-translate"         : "latest",
+        "gauge.js"                  : "latest",
+        "angular-ui-calendar"       : "latest"
+    },
+    "private" : true
+}
