@@ -1,0 +1,11 @@
+// Here you can add other styles
+
+body:not(.top-nav) {
+
+    .sidebar {
+
+        ul.nav {
+            width: $sidebar-width - 16px !important;
+        }
+    }
+}
