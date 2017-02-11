@@ -1,0 +1,6 @@
+// Here you can add other styles
+.sidebar {
+  .sidebar-nav, ul.nav {
+    width: $sidebar-width - 16px;
+  }
+}
